@@ -66,6 +66,26 @@ O projeto segue a arquitetura MVC (Model-View-Controller) para uma organização
 
 Sinta-se à vontade para contribuir com melhorias ou correções neste projeto. Basta criar um fork, fazer as alterações desejadas e enviar um pull request.
 
+#CONEXAO
+```jsx
+public class Conexao {
+    
+    public static Connection getConexao() throws ClassNotFoundException {
+
+        try {
+
+            Connection connection= DriverManager.getConnection("jdbc:mysql://localhost:3307/paradigmas","root","");
+            System.out.println("Conectado com o banco com Sucesso");
+            return connection;
+        }catch(SQLException e){
+            System.out.println("erro na conexão com o banco de dados \nErro:"+ e);
+        }
+        return null;
+
+    } 
+```
+
+
 ## Licença
 
 Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para obter mais detalhes.
