@@ -1,6 +1,5 @@
 ---
 
-**Criadores**: [Nerval Junior](https://github.com/nervaljunior), [Anderson](https://github.com/pimenta10) e [franklin](https://github.com/fraklin069) 
 
 
 # Sistema de Cadastro de Escola
