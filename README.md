@@ -27,6 +27,8 @@ todo esse projeto foi feito com base em um modelo de classes feito no StarUML, o
 
 
 
+# xamp
+![image](https://github.com/nervaljunior/paradigmas/assets/108685222/392b436c-1b17-4a0d-9ccd-f33daf51accb)
 
 
 ## Estrutura do Projeto
