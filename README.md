@@ -85,7 +85,7 @@ public class Conexao {
     } 
 ```
 
-# DOA
+# DAO
 ```jsx
 public class ProfessorDAO {
     
@@ -178,6 +178,29 @@ public class ProfessorDAO {
 ```
 
 
+# INTERFACE
+
+```jsx
+public interface Dados {
+    
+    void mostrarDados();
+    
+}
+
+ abstract public class Pessoa implements Dados{
+
+    protected int id;
+    protected String nome;
+    protected int idade;
+    protected String telefone;
+    protected String email;
+    protected String sexo;
+    protected String endereco;
+
+
+}
+
+```
 
 ## Licença
 
