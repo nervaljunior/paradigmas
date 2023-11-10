@@ -26,6 +26,11 @@ todo esse projeto foi feito com base em um modelo de classes feito no StarUML, o
 ![image](https://github.com/nervaljunior/paradigmas/assets/108685222/97deedaa-4f1d-47e7-ba18-d17ee400368d)
 
 
+#xamp
+![image](https://github.com/nervaljunior/paradigmas/assets/108685222/392b436c-1b17-4a0d-9ccd-f33daf51accb)
+
+
+
 ## Estrutura do Projeto
 
 O projeto segue a arquitetura MVC (Model-View-Controller) para uma organização clara e eficiente do código. A estrutura do projeto é dividida em pacotes:
