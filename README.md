@@ -10,6 +10,10 @@ Este é um sistema de cadastro de uma escola desenvolvido no NetBeans, com uma i
 todo esse projeto foi feito com base em um modelo de classes feito no StarUML, o qual ireei apresentar dia 10 d enovembro
 
 
+# interface
+![image](https://github.com/nervaljunior/paradigmas/assets/108685222/19c260b2-9967-4f33-b75a-e87b4d25bfc7)
+
+
 ## Estrutura do Projeto
 
 O projeto segue a arquitetura MVC (Model-View-Controller) para uma organização clara e eficiente do código. A estrutura do projeto é dividida em pacotes:
@@ -37,8 +41,7 @@ O projeto segue a arquitetura MVC (Model-View-Controller) para uma organização
 
 1. Abra o projeto no NetBeans.
 2. Configure a conexão com o banco de dados no arquivo `utils/ConexaoBD.java`.
-3. Execute o programa a partir da classe `gui/MainFrame.java`.
-
+3. Execute o programa a partir da classe `gui/ClienteGUI.java`.
 
 
 Sinta-se à vontade para contribuir com melhorias ou correções neste projeto. Basta criar um fork, fazer as alterações desejadas e enviar um pull request.
