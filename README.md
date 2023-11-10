@@ -18,6 +18,9 @@ todo esse projeto foi feito com base em um modelo de classes feito no StarUML, o
 ![image](https://github.com/nervaljunior/paradigmas/assets/108685222/19c260b2-9967-4f33-b75a-e87b4d25bfc7)
 
 
+- Desenvolvemos as interaçoes baseado no modelo CRUD que são as quatro operações básicas do desenvolvimento de uma aplicação, sendo utilizadas em bases de dados relacionais fornecidas aos utilizadores do sistema.
+
+
 # banco
 ![image](https://github.com/nervaljunior/paradigmas/assets/108685222/1882ad26-6f96-4fd5-a104-69c913c09046)
 
