@@ -9,6 +9,11 @@ Este é um sistema de cadastro de uma escola desenvolvido no NetBeans, com uma i
 
 todo esse projeto foi feito com base em um modelo de classes feito no StarUML, o qual ireei apresentar dia 10 d enovembro
 
+**Criadores**: [Nerval Junior](https://github.com/nervaljunior), [Anderson](https://github.com/pimenta10) e [franklin](https://github.com/fraklin069) 
+
+# projeto no starUML
+![image](https://github.com/nervaljunior/paradigmas/assets/108685222/ba674bdb-1c0f-4ac3-9c48-3c7f07d6a511)
+
 
 # interface
 ![image](https://github.com/nervaljunior/paradigmas/assets/108685222/19c260b2-9967-4f33-b75a-e87b4d25bfc7)
