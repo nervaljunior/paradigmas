@@ -6,7 +6,7 @@ package funcionarios;
 
 /**
  *
- * @author CLARICE
+ * @author NERVAL
  */
 public class EntidadeFuncionario {
     

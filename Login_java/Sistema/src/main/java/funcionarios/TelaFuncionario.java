@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author CLARICE
+ * @author NERVAL
  */
 public class TelaFuncionario extends javax.swing.JFrame {
 
